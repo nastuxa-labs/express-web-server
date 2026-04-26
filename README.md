@@ -9,4 +9,4 @@ Test project - Express Web Server
 `node index.js`
 
 ## Connect to server:
-In the browzer connect to: https://localhost:3000
+In the browzer connect to: https://127.0.0.1:3000
